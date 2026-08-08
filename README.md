@@ -1,4 +1,4 @@
-# SQA-Reading-Resources
+# SQA Reading Resources
 
 This repository is a collection of reading materials, notes, and resources for anyone starting their journey in the SQA world, as well as for experienced QA professionals who want to revisit the fundamentals and take a trip down memory lane. 😄
 
