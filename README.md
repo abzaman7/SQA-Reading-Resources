@@ -17,5 +17,5 @@ Happy learning and happy testing! 🧪
 </br>
 
 # Here are the Topics:
-[SLA](https://github.com/abzaman7/SLA)
-[BRD & FRD](https://github.com/abzaman7/BRD_AND_FRD)
+* [SLA](https://github.com/abzaman7/SLA)
+* [BRD & FRD](https://github.com/abzaman7/BRD_AND_FRD)
