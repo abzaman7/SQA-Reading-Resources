@@ -19,3 +19,4 @@ Happy learning and happy testing! 🧪
 # Here are the Topics:
 * [SLA](https://github.com/abzaman7/SLA)
 * [BRD & FRD](https://github.com/abzaman7/BRD_AND_FRD)
+* [TEST PLAN AND SAMPLE TEST PLAN DOC](https://github.com/abzaman7/TEST_PLAN)
