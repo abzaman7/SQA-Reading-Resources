@@ -20,3 +20,4 @@ Happy learning and happy testing! 🧪
 * [SLA](https://github.com/abzaman7/SLA)
 * [BRD & FRD](https://github.com/abzaman7/BRD_AND_FRD)
 * [TEST PLAN AND SAMPLE TEST PLAN DOC](https://github.com/abzaman7/TEST_PLAN)
+* [TEST STRATEGY AND SAMPLE TEST STRATEGY DOC](https://github.com/abzaman7/TEST_STRATEGY)
