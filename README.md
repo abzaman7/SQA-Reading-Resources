@@ -17,6 +17,7 @@ Happy learning and happy testing! 🧪
 </br>
 
 # Here are the Topics:
+* [TEST CASE](https://github.com/abzaman7/TEST_CASE)
 * [SLA](https://github.com/abzaman7/SLA)
 * [BRD & FRD](https://github.com/abzaman7/BRD_AND_FRD)
 * [TEST PLAN AND SAMPLE TEST PLAN DOC](https://github.com/abzaman7/TEST_PLAN)
