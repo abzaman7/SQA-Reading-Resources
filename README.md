@@ -21,4 +21,4 @@ Happy learning and happy testing! 🧪
 * [BRD & FRD](https://github.com/abzaman7/BRD_AND_FRD)
 * [TEST PLAN AND SAMPLE TEST PLAN DOC](https://github.com/abzaman7/TEST_PLAN)
 * [TEST STRATEGY AND SAMPLE TEST STRATEGY DOC](https://github.com/abzaman7/TEST_STRATEGY)
-* [Red-Green-Refactor (RGR)](https://github.com/abzaman7/RED_GREEN_REFECTOR)
+* [RED GREEN REFECTOR (RGR)](https://github.com/abzaman7/RED_GREEN_REFECTOR)
