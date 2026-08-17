@@ -18,6 +18,7 @@ Happy learning and happy testing! 🧪
 
 # Here are the Topics:
 * [MANUAL TESTING](https://github.com/abzaman7/MANUAL_TESTING)
+* [BUGS, DEFECTS, AND FAILURES](https://github.com/abzaman7/BUGS_DEFECTS_and_FALIURES)
 * [TEST CASE](https://github.com/abzaman7/TEST_CASE)
 * [SLA](https://github.com/abzaman7/SLA)
 * [BRD & FRD](https://github.com/abzaman7/BRD_AND_FRD)
