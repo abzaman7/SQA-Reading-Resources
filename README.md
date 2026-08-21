@@ -23,6 +23,7 @@ Happy learning and happy testing! 🧪
 * [TEST PLAN AND SAMPLE TEST PLAN DOC](https://github.com/abzaman7/TEST_PLAN)
 * [TEST STRATEGY AND SAMPLE TEST STRATEGY DOC](https://github.com/abzaman7/TEST_STRATEGY)
 * [TEST CASE](https://github.com/abzaman7/TEST_CASE)
+* [SOFTWARE_TESTING_TYPES_AND_TECHNIQUES](https://github.com/abzaman7/SOFTWARE_TESTING_TYPES_AND_TECHNIQUES)
 * [SLA](https://github.com/abzaman7/SLA)
 * [BRD & FRD](https://github.com/abzaman7/BRD_AND_FRD)
 * [RED GREEN REFECTOR (RGR)](https://github.com/abzaman7/RED_GREEN_REFECTOR)
