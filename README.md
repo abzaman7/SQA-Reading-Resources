@@ -1,6 +1,6 @@
 # SQA Reading Resources
 
-This repository is a collection of reading materials, notes, and resources for anyone starting their journey in the SQA world, as well as for experienced QA professionals who want to revisit the fundamentals and take a trip down memory lane. 😄
+This repository is a collection of reading materials, notes, and resources for anyone starting their journey in the SQA world, as well as for experienced QA professionals who want to revisit the fundamentals and take a trip down memory lane.
 
 These materials are based strictly on my own research, findings, experiences, and understanding of different QA concepts and practices applied in the software testing field. Because of that, disagreements, alternative perspectives, and constructive criticism are always welcome! 🙌
 
